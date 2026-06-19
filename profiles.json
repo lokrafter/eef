@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-15T09:24:35.499Z",
+  "counts": {
+    "founders": 1,
+    "companies": 2
+  },
+  "founders": [
+    {
+      "username": "Massive_Design_667",
+      "level": "Intermediaire",
+      "categories": [
+        "Marketing",
+        "Tech / Dev",
+        "E-commerce",
+        "Finance"
+      ],
+      "expertiseSummary": "Entrepreneur expérimenté ayant lancé plusieurs projets SaaS et outils no-code. Démontre une expertise solide en acquisition marketing, SEO et gestion de trésorerie. Combine compétences techniques, stratégie commerciale et levée de fonds.",
+      "projects": [
+        {
+          "name": "Shopizen",
+          "stage": "MVP"
+        },
+        {
+          "name": "TrésoFlow",
+          "stage": "Croissance"
+        }
+      ],
+      "postCount": 4,
+      "commentCount": 3,
+      "totalScore": 7,
+      "topPostTitle": "J'ai lancé Shopizen, mon MVP no-code pour créer des boutiques e-commerce"
+    }
+  ],
+  "companies": [
+    {
+      "companyId": "shopizen",
+      "name": "Shopizen",
+      "sector": "E-commerce",
+      "stage": "MVP",
+      "description": "Outil no-code pour lancer rapidement une boutique e-commerce type Shopify",
+      "founders": [
+        "Massive_Design_667"
+      ],
+      "mentionsCount": 1,
+      "totalScore": 1
+    },
+    {
+      "companyId": "tresoflow",
+      "name": "TrésoFlow",
+      "sector": "Finance",
+      "stage": "Croissance",
+      "description": "SaaS de gestion de trésorerie pour PME ayant bouclé une levée de fonds",
+      "founders": [
+        "Massive_Design_667"
+      ],
+      "mentionsCount": 1,
+      "totalScore": 1
+    }
+  ]
+}
