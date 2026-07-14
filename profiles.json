@@ -1,139 +1,39 @@
 {
+  "version": 1,
   "generatedAt": "2026-06-27T14:38:20.399Z",
   "counts": {
-    "posts": 8,
     "founders": 2,
-    "companies": 0,
-    "issues": 3
+    "companies": 0
   },
   "founders": [
     {
       "username": "Angelotommy",
+      "level": "Debutant",
       "categories": [
         "Marketing",
         "Tech / Dev"
       ],
-      "level": "Debutant",
       "expertiseSummary": "Angelotommy se présente comme designer et travaille dans le domaine du marketing. Ses contributions sont principalement des posts de test sans contenu substantiel, ce qui suggère une exploration plutôt qu'une expertise consolidée. Il affiche un intérêt pour le design informatique et le marketing, mais manque de projets concrets ou d'expérience démontrée.",
       "projects": [],
       "postCount": 7,
       "commentCount": 2,
       "totalScore": 9,
-      "topPost": {
-        "id": "t3_1uh43pw",
-        "title": "Je suis designer",
-        "body": "Test",
-        "score": 1,
-        "date": "2026-06-27T14:25:08.000Z"
-      }
+      "topPostTitle": "Je suis designer"
     },
     {
       "username": "Massive_Design_667",
+      "level": "Debutant",
       "categories": [
         "Marketing",
         "Tech / Dev"
       ],
-      "level": "Debutant",
       "expertiseSummary": "Contributeur très actif mais avec une participation minimaliste sur le subreddit r/EntreprendreEnFrance. Basé sur l'unique post 'Salut', l'utilisateur semble être au stade initial de son engagement communautaire. Aucune information suffisante pour déterminer une expertise spécifique.",
       "projects": [],
       "postCount": 1,
       "commentCount": 0,
       "totalScore": 1,
-      "topPost": {
-        "id": "t3_1uh3tsf",
-        "title": "Salut",
-        "body": "Salut",
-        "score": 1,
-        "date": "2026-06-27T14:13:17.000Z"
-      }
+      "topPostTitle": "Salut"
     }
   ],
-  "companies": [],
-  "timeline": [
-    {
-      "issue": "Marketing",
-      "count": 4,
-      "firstDate": "2026-05-21T21:48:39.000Z",
-      "lastDate": "2026-06-27T14:24:46.000Z",
-      "posts": [
-        {
-          "postId": "t3_1tjz2er",
-          "title": "TEST",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-05-21T21:48:39.000Z"
-        },
-        {
-          "postId": "t3_1tk0giv",
-          "title": "TEST",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-05-21T22:42:48.000Z"
-        },
-        {
-          "postId": "t3_1uh3tsf",
-          "title": "Salut",
-          "author": "Massive_Design_667",
-          "score": 1,
-          "createdAt": "2026-06-27T14:13:17.000Z"
-        },
-        {
-          "postId": "t3_1uh43ek",
-          "title": "TEST",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-06-27T14:24:46.000Z"
-        }
-      ]
-    },
-    {
-      "issue": "Tech / Dev",
-      "count": 2,
-      "firstDate": "2026-06-27T14:23:47.000Z",
-      "lastDate": "2026-06-27T14:25:08.000Z",
-      "posts": [
-        {
-          "postId": "t3_1uh42kw",
-          "title": "Test VP",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-06-27T14:23:47.000Z"
-        },
-        {
-          "postId": "t3_1uh43pw",
-          "title": "Je suis designer",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-06-27T14:25:08.000Z"
-        }
-      ]
-    },
-    {
-      "issue": "Networking",
-      "count": 1,
-      "firstDate": "2026-06-14T17:13:37.000Z",
-      "lastDate": "2026-06-14T17:13:37.000Z",
-      "posts": [
-        {
-          "postId": "t3_1u5qslq",
-          "title": "AMA",
-          "author": "Angelotommy",
-          "score": 1,
-          "createdAt": "2026-06-14T17:13:37.000Z"
-        }
-      ]
-    }
-  ],
-  "exportedAt": "2026-06-27T14:39:02.973Z",
-  "settings": {
-    "conflictPolicy": "manual-wins",
-    "import": {
-      "mode": "smart",
-      "scoreRule": "max",
-      "bodyRule": "longest",
-      "commentsRule": "union",
-      "respectOverrides": true,
-      "restoreRemoved": false
-    }
-  }
+  "companies": []
 }
