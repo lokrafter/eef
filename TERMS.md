@@ -1,8 +1,8 @@
-# Conditions d'utilisation — EEF Apps
+# Conditions d'utilisation · EEF Apps
 
 **Application :** EEF Apps (application Reddit/Devvit de la communauté r/EntreprendreEnFrance)
 **Éditeur :** l'équipe de modération de r/EntreprendreEnFrance
-**Dernière mise à jour :** 19 juin 2026
+**Dernière mise à jour :** 17 novembre 2026
 
 ## 1. Objet
 
@@ -14,36 +14,49 @@ En utilisant l'application, vous acceptez les présentes conditions ainsi que le
 
 ## 3. Description du service
 
-L'application propose des fonctionnalités communautaires : classements d'activité, attribution de flairs, vote du mois (meilleur post / meilleur commentaire), annuaire des AMA, et une section Profils (founders et entreprises) construite à partir des contributions publiques du subreddit.
+L'application propose des fonctionnalités communautaires :
 
-## 4. Utilisation
+- **les quêtes :** un post au flair « Que devrais-je faire ? » devient une quête ; les membres y proposent des pistes, et l'auteur retient celles qui l'ont aidé à la clôture ;
+- **les projets :** l'historique des posts et des quêtes de chaque membre, présenté avec le nom et le logo de sa boîte ;
+- **les sondages et études de marché ;**
+- **le profil du membre ;**
+- des classements d'activité, des points, des niveaux et des primes, l'attribution de flairs, le vote du mois, l'annuaire des AMA, des événements et un jeu.
 
-Les classements, scores et profils sont fournis à titre **informatif et ludique**. Ils sont dérivés de l'activité publique sur le subreddit et ne constituent ni un classement officiel ni une évaluation professionnelle des personnes ou des entreprises mentionnées.
+## 4. Points, niveaux et primes
 
-## 5. Modération
+Les points, niveaux, primes et classements sont fournis à titre **informatif et ludique**. Ils n'ont aucune valeur monétaire, ne peuvent être ni échangés ni vendus, et ne constituent ni un classement officiel ni une évaluation professionnelle des personnes ou des entreprises mentionnées. Les primes d'une quête sont créées par l'application et partagées entre les pistes retenues. Pour éviter les abus, un même membre ne peut pas recevoir plus de 2 primes du même auteur sur 30 jours.
 
-L'équipe de modération peut, à tout moment et sans préavis : ajuster ou réinitialiser des scores, exclure un compte des classements, masquer un profil, ou retirer du contenu, notamment en cas d'abus ou de demande légitime.
+## 5. Contenus publiés par les membres
 
-## 6. Contenu
+- Une piste est publiée en commentaire sous la quête, au nom du membre. Un sondage est publié en commentaire sous le post des études de marché, au nom de son auteur.
+- Le membre reste responsable de ce qu'il écrit ou envoie (texte, logo, image), qui doit respecter les règles du subreddit et de Reddit.
+- En votant à un sondage, le membre accepte que l'auteur du sondage et les modérateurs puissent exporter sa réponse avec son pseudo, son secteur, ses compétences et sa région.
+- Les champs préremplis du profil sont des suggestions issues d'une analyse automatique : le membre les vérifie avant de les enregistrer.
 
-Les contenus (posts, commentaires) restent la propriété de leurs auteurs et demeurent soumis aux conditions de Reddit. L'application ne fait que les agréger et les présenter.
+## 6. Modération
 
-## 7. Absence de garantie
+L'équipe de modération peut, à tout moment et sans préavis : ajuster ou réinitialiser des scores, exclure un compte des classements, masquer un profil, clôturer ou archiver une quête, ou retirer du contenu, notamment en cas d'abus ou de demande légitime.
 
-L'application est fournie « en l'état », sans garantie de disponibilité, d'exactitude ou d'absence d'erreur. Les analyses automatisées (IA) peuvent comporter des imprécisions.
+## 7. Propriété des contenus
 
-## 8. Limitation de responsabilité
+Les contenus (posts, commentaires, pistes, sondages, logos et images) restent la propriété de leurs auteurs et demeurent soumis aux conditions de Reddit. L'application les agrège et les présente.
 
-Dans les limites permises par la loi, l'éditeur ne saurait être tenu responsable des dommages résultant de l'utilisation ou de l'indisponibilité de l'application.
+## 8. Absence de garantie
 
-## 9. Modifications
+L'application est fournie « en l'état », sans garantie de disponibilité, d'exactitude ou d'absence d'erreur. Les analyses automatisées (IA) peuvent comporter des imprécisions. Les pistes et réponses proposées par les membres ne sont pas des conseils professionnels.
+
+## 9. Limitation de responsabilité
+
+Dans les limites permises par la loi, l'éditeur ne saurait être tenu responsable des dommages résultant de l'utilisation ou de l'indisponibilité de l'application, ni des décisions prises sur la base des pistes, sondages ou contenus publiés par les membres.
+
+## 10. Modifications
 
 Ces conditions peuvent être modifiées ; la date de dernière mise à jour ci-dessus fait foi.
 
-## 10. Droit applicable
+## 11. Droit applicable
 
 Droit français, sous réserve des dispositions impératives applicables.
 
-## 11. Contact
+## 12. Contact
 
-Équipe de modération de r/EntreprendreEnFrance — via modmail du subreddit.
+Équipe de modération de r/EntreprendreEnFrance, via le modmail du subreddit.
