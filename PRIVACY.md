@@ -2,7 +2,7 @@
 
 **Application :** EEF Apps (application Reddit/Devvit de la communauté r/EntreprendreEnFrance)
 **Responsable :** l'équipe de modération de r/EntreprendreEnFrance
-**Dernière mise à jour :** 17 novembre 2026
+**Dernière mise à jour :** 19 novembre 2026
 
 ## 1. Données traitées
 
@@ -21,14 +21,14 @@ L'application traite 2 types de données.
 - **les quêtes :** catégorie, échéance, description modifiée et image choisies par l'auteur d'un post « Que devrais-je faire ? », pistes retenues et texte « Ce que j'ai fait » à la clôture ;
 - **les pistes :** publiées en commentaire sous la quête, au nom du membre ;
 - **les sondages :** la question et les réponses sont publiées en commentaire sous le post des études de marché, au nom de l'auteur. Le vote de chaque membre est enregistré avec son pseudo, pour empêcher les votes multiples ;
-- **l'activité dans l'app :** points, niveaux, primes, votes du mois, parties du jeu, inscriptions aux événements ;
+- **l'activité dans l'app :** points, niveaux, primes, parties du jeu ;
 - **le suivi des clics :** les boutons utilisés, avec le pseudo et l'heure, pour améliorer l'app. Ce journal est effacé au bout de 60 jours.
 
 L'application **ne collecte pas** d'adresse e-mail, de mot de passe, de coordonnées bancaires, de données de localisation précise, ni aucune donnée sensible. Elle n'utilise pas de cookie publicitaire ni de traceur.
 
 ## 2. Finalités
 
-Les données servent uniquement au fonctionnement communautaire de l'app : quêtes et pistes, projets des membres, sondages et études de marché, classements d'activité, points et niveaux, attribution de flairs (Champion, niveaux, etc.), vote du mois, annuaire des AMA, événements et jeu.
+Les données servent uniquement au fonctionnement communautaire de l'app : quêtes et pistes, projets des membres, sondages et études de marché, classements d'activité, points et niveaux, attribution de flairs (Champion, niveaux, etc.), annuaire des AMA et jeu.
 
 ## 3. Ce qui est visible et par qui
 
@@ -36,6 +36,7 @@ Les données servent uniquement au fonctionnement communautaire de l'app : quêt
 - Les pistes et les sondages sont publiés sur Reddit, au nom du membre, comme n'importe quel commentaire.
 - La description modifiée et l'image d'une quête ne s'affichent que dans l'app.
 - **Export des sondages :** l'auteur d'un sondage et les modérateurs peuvent exporter les réponses, avec pour chaque votant son pseudo, son secteur, ses compétences et sa région. Le formulaire du profil et un avertissement avant le vote le rappellent.
+- **Top du mois :** chaque jeudi et le 1er du mois, l'app publie sur le sub un post avec les 3 membres en tête du classement : pseudo, points et activité (la boîte et le secteur de leur profil, sinon un résumé de leur activité sur le sub). Un membre qui masque son profil n'a pas d'activité affichée.
 - L'auteur d'une quête non clôturée reçoit des rappels par modmail ; les modérateurs peuvent ensuite la clôturer.
 
 ## 4. Base légale

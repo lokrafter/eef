@@ -2,7 +2,7 @@
 
 **Application :** EEF Apps (application Reddit/Devvit de la communauté r/EntreprendreEnFrance)
 **Éditeur :** l'équipe de modération de r/EntreprendreEnFrance
-**Dernière mise à jour :** 17 novembre 2026
+**Dernière mise à jour :** 19 novembre 2026
 
 ## 1. Objet
 
@@ -20,7 +20,7 @@ L'application propose des fonctionnalités communautaires :
 - **les projets :** l'historique des posts et des quêtes de chaque membre, présenté avec le nom et le logo de sa boîte ;
 - **les sondages et études de marché ;**
 - **le profil du membre ;**
-- des classements d'activité, des points, des niveaux et des primes, l'attribution de flairs, le vote du mois, l'annuaire des AMA, des événements et un jeu.
+- des classements d'activité, des points, des niveaux et des primes, l'attribution de flairs, l'annuaire des AMA et un jeu.
 
 ## 4. Points, niveaux et primes
 
