@@ -2,7 +2,7 @@
 
 **Application :** EEF Apps (application Reddit/Devvit de la communauté r/EntreprendreEnFrance)
 **Éditeur :** l'équipe de modération de r/EntreprendreEnFrance
-**Dernière mise à jour :** 19 novembre 2026
+**Dernière mise à jour :** 24 novembre 2026
 
 ## 1. Objet
 
@@ -17,7 +17,7 @@ En utilisant l'application, vous acceptez les présentes conditions ainsi que le
 L'application propose des fonctionnalités communautaires :
 
 - **les quêtes :** un post au flair « Que devrais-je faire ? » devient une quête ; les membres y proposent des pistes, et l'auteur retient celles qui l'ont aidé à la clôture ;
-- **les projets :** l'historique des posts et des quêtes de chaque membre, présenté avec le nom et le logo de sa boîte ;
+- **les projets :** l'historique des posts et des quêtes de chaque membre, avec le nom et le logo de sa boîte et le stade de son projet, et les news qu'il partage ;
 - **les sondages et études de marché ;**
 - **le profil du membre ;**
 - des classements d'activité, des points, des niveaux et des primes, l'attribution de flairs, l'annuaire des AMA et un jeu.
@@ -28,7 +28,7 @@ Les points, niveaux, primes et classements sont fournis à titre **informatif et
 
 ## 5. Contenus publiés par les membres
 
-- Une piste est publiée en commentaire sous la quête, au nom du membre. Un sondage est publié en commentaire sous le post des études de marché, au nom de son auteur.
+- Une piste est publiée en commentaire sous la quête, au nom du membre. Un sondage est publié en commentaire sous le post des études de marché, au nom de son auteur. Une news est publiée en post sur le subreddit, au nom du membre, avec le flair « Build in public ».
 - Le membre reste responsable de ce qu'il écrit ou envoie (texte, logo, image), qui doit respecter les règles du subreddit et de Reddit.
 - En votant à un sondage, le membre accepte que l'auteur du sondage et les modérateurs puissent exporter sa réponse avec son pseudo, son secteur, ses compétences et sa région.
 - Les champs préremplis du profil sont des suggestions issues d'une analyse automatique : le membre les vérifie avant de les enregistrer.
@@ -39,7 +39,7 @@ L'équipe de modération peut, à tout moment et sans préavis : ajuster ou réi
 
 ## 7. Propriété des contenus
 
-Les contenus (posts, commentaires, pistes, sondages, logos et images) restent la propriété de leurs auteurs et demeurent soumis aux conditions de Reddit. L'application les agrège et les présente.
+Les contenus (posts, commentaires, pistes, sondages, news, logos et images) restent la propriété de leurs auteurs et demeurent soumis aux conditions de Reddit. L'application les agrège et les présente.
 
 ## 8. Absence de garantie
 
